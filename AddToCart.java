@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
- 
+// AddToCart Class for E-commerce app
 public class AddToCart {
 
     public static void main(String[] args) {
