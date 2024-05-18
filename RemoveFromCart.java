@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
- 
+// Remove FromCart Class for E-commerce app 
 public class RemoveFromCart {
 
     public static void main(String[] args) {
