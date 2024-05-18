@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
- 
+ // FilterCategory Class for E-commerce app
 public class FilterwithCategory {
 
     public static void main(String[] args) {
