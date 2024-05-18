@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
  *
- * @author CTN 002
+ * @author mahad
  */
 public class SignUpTestCase {
     public static void main(String[] args) {
