@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.support.ui.Select;
 
- 
+ // Main Test Class for E-commerce app
 public class TestCases {
 
     public static void main(String[] args) {
